@@ -1,6 +1,8 @@
 openvr_survivor							
 ===============
 
+[![Join the chat at https://gitter.im/openvr_survivor/Lobby](https://badges.gitter.im/openvr_survivor/Lobby.svg)](https://gitter.im/openvr_survivor/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 About
 -----
 This is an open source project based on steamVR development driver, used in the windows platform, can provide you with the following functions:
