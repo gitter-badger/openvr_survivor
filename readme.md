@@ -11,7 +11,8 @@ This is an open source project based on steamVR development driver, used in the 
  - If you're already an experienced developer and passionate about VR, we want to be able to work together on some of the more interesting things, such as distortion, ATW, TW, tracking, prediction, and so forth. Join us.
 
 SteamVR game example:
-![the body vr](https://github.com/HelenXR/Documents/blob/master/picture/openvr_survivor_the_body_game.jp://github.com/HelenXR/Documents/blob/master/picture/openvr_survivor_the_body_game.jpg)
+
+![the_body_vr](https://github.com/HelenXR/Documents/blob/master/picture/openvr_survivor_the_body_game.jpg)
 How to use
 ----------
 Use CMake to build visual studio project, and then open the "openvr_survivor.sln", compiled the driver file package openvr_survivor, and then copy it to the "Steam\steamapps\common\SteamVR\drivers" directory, and then modify the default.vrsettings:
@@ -28,6 +29,7 @@ Use CMake to build visual studio project, and then open the "openvr_survivor.sln
 ```
 
 [compiled driver](https://github.com/HelenXR/Documents/blob/master/package/openvr_survivor.rar)
+
 HMD 6dof:
 ```
 rotate information:
